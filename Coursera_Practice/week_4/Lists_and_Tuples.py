@@ -1,5 +1,6 @@
 # Tuples - Sequences of elements of any type,
-# that are immutable
+# that are immutable. Tuples are specified using parentheses
+# instead of square brackets
 
 fullname = ('Grace', 'M', 'Hopper')
 # the position of the elements inside the tuple have meaning
