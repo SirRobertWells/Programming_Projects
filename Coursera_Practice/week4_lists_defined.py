@@ -61,3 +61,12 @@ print(skip_elements(["a", "b", "c", "d", "e", "f", "g"]))  # Should be ['a', 'c'
 print(skip_elements(
     ['Orange', 'Pineapple', 'Strawberry', 'Kiwi', 'Peach']))  # Should be ['Orange', 'Strawberry', 'Peach']
 print(skip_elements([]))  # Should be []
+
+dog = ['Freddie', 9, True, 1.1, 2001, ['bone', 'little ball']]
+for i in dog:
+    print(i)
+
+numbers = [1,5,12,91,102]
+for i in numbers:
+    print(i*i)
+    
